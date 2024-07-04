@@ -1,0 +1,179 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Mike Bona Photography</title>
+<meta name="description" content="Specializing in colorful, eye catching photography, and mind numbing illustrations that are right at home being grinded off a skateboard or being hung in a downtown art gallery. Providing quality services to the action sports world and beyond for nearly 2 decades. ">
+<meta name="keywords" content="skate, surf, snow, skateboard, snowboard, johnny dufort, mike, bona, photography, poland, sandomierz, warsaw, gnar, stickers, clothing, prints, tshirts, poster, print, posters, vomit, extreme, graphix">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="author" content="Mike Bona">
+<meta name="generator" content="mike bona">
+<style type="text/css">
+/*----------Text Styles----------*/
+.ws6 {font-size: 8px;}
+.ws7 {font-size: 9.3px;}
+.ws8 {font-size: 11px;}
+.ws9 {font-size: 12px;}
+.ws10 {font-size: 13px;}
+.ws11 {font-size: 15px;}
+.ws12 {font-size: 16px;}
+.ws14 {font-size: 19px;}
+.ws16 {font-size: 21px;}
+.ws18 {font-size: 24px;}
+.ws20 {font-size: 27px;}
+.ws22 {font-size: 29px;}
+.ws24 {font-size: 32px;}
+.ws26 {font-size: 35px;}
+.ws28 {font-size: 37px;}
+.ws36 {font-size: 48px;}
+.ws48 {font-size: 64px;}
+.ws72 {font-size: 96px;}
+.wpmd {font-size: 13px;font-family: Arial,Helvetica,Sans-Serif;font-style: normal;font-weight: normal;}
+/*----------Para Styles----------*/
+DIV,UL,OL /* Left */
+{
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+</style>
+
+<script language="JavaScript1.4" type="text/javascript">
+<!--
+function jsPlay(soundobj) {
+ var thissound= eval("document."+soundobj);
+ try {
+     thissound.Play();
+ }
+ catch (e) {
+     thissound.DoPlay();
+ }
+}
+//-->
+</script>
+
+<script language="javascript" type="text/javascript">
+<!--
+function MM_swapImgRestore() {
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() {
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) {
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() {
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+//-->
+</script>
+
+<style type="text/css">
+div#container
+{
+	position:relative;
+	width: 856px;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:left; 
+}
+body {text-align:center;margin:0}
+</style>
+
+</head>
+<body background="images/drkbck.gif" Text="#C0C0C0" bgColor="#000000" Link="#3366FF" VLink="#339966">
+<div id="container">
+<div id="shape1" style="position:absolute; overflow:hidden; left:0px; top:308px; width:856px; height:674px; z-index:0"><img border=0 width="100%" height="100%" alt="" src="images/shape12509782.gif"></div>
+
+<div id="js1" style="position:absolute; overflow:hidden; left:1px; top:545px; width:854px; height:375px; z-index:1">
+<div id="c_js1" style="overflow:hidden;height:100%;width:100%;">
+  <table cellpadding="0" cellspacing="0" border="0">
+    <tr>
+    	<td id="p1_js1" height="375" valign="middle" align="center"><img border="0" src="images/0 (1).jpg" alt="" title="" hspace="5"><img border="0" src="images/1.jpg" alt="" title="" hspace="5"><img border="0" src="images/2.jpg" alt="" title="" hspace="5"><img border="0" src="images/3.jpg" alt="" title="" hspace="5"><img border="0" src="images/4.jpg" alt="" title="" hspace="5"><img border="0" src="images/5.jpg" alt="" title="" hspace="5"><img border="0" src="images/6.jpg" alt="" title="" hspace="5"><img border="0" src="images/7.jpg" alt="" title="" hspace="5"><img border="0" src="images/8.jpg" alt="" title="" hspace="5"><img border="0" src="images/9.jpg" alt="" title="" hspace="5"><img border="0" src="images/11.jpg" alt="" title="" hspace="5"><img border="0" src="images/12.jpg" alt="" title="" hspace="5"><img border="0" src="images/13.jpg" alt="" title="" hspace="5"><img border="0" src="images/14.jpg" alt="" title="" hspace="5"></td>
+        <td id="p2_js1" valign="middle"></td>
+    </tr>
+  </table>
+</div>
+
+<script>
+var speed=12
+var i=0
+var n=Math.floor(js1.offsetWidth/p1_js1.offsetWidth)
+for (i=0;i<=n;i++)
+{
+p2_js1.innerHTML+=p1_js1.innerHTML
+}
+function m_js1()
+{
+if(c_js1.scrollLeft>=p1_js1.offsetWidth)
+  c_js1.scrollLeft-=p1_js1.offsetWidth
+else
+  c_js1.scrollLeft++
+}
+var mm_js1=setInterval(m_js1,speed) 
+c_js1.onmouseover=function(){clearInterval(mm_js1)} 
+c_js1.onmouseout=function(){mm_js1=setInterval(m_js1,speed)} 
+</script></div>
+<div id="image1" style="position:absolute; overflow:hidden; left:0px; top:0px; width:856px; height:308px; z-index:2"><img src="images/bannerjp.jpg" alt="" title="" border=0 width=856 height=308></div>
+
+<div id="nav20d" style="position:absolute; left:10px; top:312px; z-index:3"><a onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('nav20','','images/nav145413670a.gif',1)" href="C:\Users\skupz\Desktop\stronka\about\about.html"><img name="nav20" onLoad="MM_preloadImages('images/nav145413670a.gif')" alt="" border=0 src="images/nav145413670i.gif"></a></div>
+<div id="nav21d" style="position:absolute; left:150px; top:312px; z-index:3"><a onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('nav21','','images/nav145413671a.gif',1)" href="http://www.jimbophillips.com/Skateboards/index.html"><img name="nav21" onLoad="MM_preloadImages('images/nav145413671a.gif')" alt="" border=0 src="images/nav145413671i.gif"></a></div>
+<div id="nav22d" style="position:absolute; left:290px; top:312px; z-index:3"><a onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('nav22','','images/nav145413672a.gif',1)" href="http://www.jimbophillips.com/Rock/index.html"><img name="nav22" onLoad="MM_preloadImages('images/nav145413672a.gif')" alt="" border=0 src="images/nav145413672i.gif"></a></div>
+<div id="nav23d" style="position:absolute; left:430px; top:312px; z-index:3"><a onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('nav23','','images/nav145413673a.gif',1)" href="http://www.jimbophillips.com/Surf/index.html"><img name="nav23" onLoad="MM_preloadImages('images/nav145413673a.gif')" alt="" border=0 src="images/nav145413673i.gif"></a></div>
+<div id="nav24d" style="position:absolute; left:570px; top:312px; z-index:3"><a onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('nav24','','images/nav145413674a.gif',1)" href="http://www.jimbophillips.com/Other/index.html"><img name="nav24" onLoad="MM_preloadImages('images/nav145413674a.gif')" alt="" border=0 src="images/nav145413674i.gif"></a></div>
+<div id="nav25d" style="position:absolute; left:710px; top:312px; z-index:3"><a onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('nav25','','images/nav145413675a.gif',1)" href="mailto:mbona44@gmail.com" target="_parent"><img name="nav25" onLoad="MM_preloadImages('images/nav145413675a.gif')" alt="" border=0 src="images/nav145413675i.gif"></a></div>
+
+<div id="text1" style="position:absolute; overflow:hidden; left:311px; top:359px; width:474px; height:163px; z-index:4">
+<div class="wpmd">
+<div align=center><font color="#000000" face="Cooper Std Black" class="ws20"><B>Born and living in the southeastern Polish town of Sandomierz, Mike Bona (1996) is an artist and photographer, working part-time at a family-owned junkyard.</B></font></div>
+</div></div>
+
+<div id="image2" style="position:absolute; overflow:hidden; left:816px; top:940px; width:35px; height:35px; z-index:5"><a href="https://twitter.com/_mikebona" title="TWITTER" target="_blank"><img src="images/twitterjp2.gif" alt="" title="" border=0 width=35 height=35></a></div>
+
+<div id="image3" style="position:absolute; overflow:hidden; left:776px; top:940px; width:35px; height:35px; z-index:6"><a href="https://www.facebook.com/" title="FACEBOOK" target="_blank"><img src="images/face1.gif" alt="" title="" border=0 width=35 height=35></a></div>
+
+<div id="image4" style="position:absolute; overflow:hidden; left:736px; top:940px; width:35px; height:35px; z-index:7"><a href="http://instagram.com/_mikebona" title="INSTAGRAM" target="_blank"><img src="images/instajp2.gif" alt="INSTAGRAM" title="INSTAGRAM" border=0 width=35 height=35></a></div>
+
+<div id="text2" style="position:absolute; overflow:hidden; left:147px; top:962px; width:588px; height:18px; z-index:8">
+<div class="wpmd">
+<div align=center><font class="ws9" color="#000000" face="Cooper Std Black">©Mike Bona Photography 2024 all rights reserved</font></div>
+</div></div>
+
+<div id="text3" style="position:absolute; overflow:hidden; left:732px; top:913px; width:124px; height:24px; z-index:9">
+<div class="wpmd">
+<div align=center><font class="ws7" color="#000000" face="Cooper Std Black">CLICK TO FIND ME ON</font></div>
+<div align=center><font class="ws7" color="#000000" face="Cooper Std Black">THESE SOCIAL SITES</font></div>
+</div></div>
+
+<div id="text4" style="position:absolute; overflow:hidden; left:147px; top:934px; width:589px; height:29px; z-index:10">
+<a href="https://mikebonastore.storenvy.com/" title="SHOP NOW"><div class="wpmd">
+<div align=center><font class="ws14" color="#FF0000" face="Cooper Std Black">CLICK HERE TO VISIT MY ONLINE STORE</font></div>
+</div></a></div>
+
+<div id="rollimg1" style="position:absolute; overflow:hidden; left:52px; top:366px; width:190px; height:185px; z-index:11">
+<a onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('rollimg1','','images/shopnow2.jpg',1)" href="https://mikebonastore.storenvy.com/" title="CLICK HERE TO SHOP NOW!!!">
+<img name="rollimg1" onLoad="MM_preloadImages('images/shopnow2.jpg')" width=190 height=185 alt="Mike Bona" title="Mike Bona" border=0 src="images/shopnow1.jpg">
+</a></div>
+
+<div id="rollimg2" style="position:absolute; overflow:hidden; left:4px; top:917px; width:143px; height:60px; z-index:12">
+<a onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('rollimg2','','images/st2.jpg',1)" href="https://www.dropbox.com/scl/fi/ei5vfcye0mge5qztx5q7o/Portfolio-Mike-Bona.pdf?rlkey=bfw3r2zdrrjmkeqgknzm6pbrn&st=4mgzluts&dl=0" title="DOWNLOAD NOW!">
+<img name="rollimg2" onLoad="MM_preloadImages('images/st2.jpg')" width=143 height=60 alt="DOWNLOAD NOW!" title="DOWNLOAD NOW!" border=0 src="images/st1.jpg">
+</a></div>
+
+<div id="shape2" style="position:absolute; overflow:hidden; left:0px; top:982px; width:856px; height:19px; z-index:13"><img border=0 width="100%" height="100%" alt="" src="images/shape11511187.gif"></div>
+
+</div>
+
+</body>
+</html>
